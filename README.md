@@ -41,6 +41,7 @@ Model evaluation metric used is Accuracy. Accuracy is the percentage of correctl
 ## Building models
 * Stacking. Building multiple models (typically of differing types) and supervisor model
 that learns how to best combine the predictions of the primary models.
+
 5 different stacking algorithms were evaluated.
 1.	Linear Discriminant Analysis (LDA).
 2.	Classification and Regression Trees (CART).
